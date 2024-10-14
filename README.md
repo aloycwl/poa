@@ -27,5 +27,3 @@ Start validator (you can also run in background)
 ```
 ./validator.sh
 ```
-
-In case any step is performed incorrectly, 
